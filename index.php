@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    idok patrick
+    <p> Stephen John De Julian </p>
+    <p> 33-ITE-03 </p>
+    <p> New York City </p>
 </body>
 </html>
