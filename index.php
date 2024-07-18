@@ -8,6 +8,6 @@
 <body>
     <p> Stephen John De Julian </p>
     <p> 33-ITE-03 </p>
-    <p> New York City </p>
+    <p> 3rd Year Summer Semester</p>
 </body>
 </html>
